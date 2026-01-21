@@ -7,7 +7,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: ["http://localhost:5173", "https://yourdomain.vercel.app"],
+    origin: ["http://localhost:5173", "https://marriage-website-frontend-2026.vercel.app/"],
   })
 );
 
